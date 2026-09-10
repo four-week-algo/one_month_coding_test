@@ -1,0 +1,32 @@
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+out/
+target/
+build/
+*.jar
+
+# C++
+*.o
+*.obj
+*.exe
+*.out
+a.out
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
