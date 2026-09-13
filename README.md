@@ -2,6 +2,9 @@
 
 프로그래머스 코딩테스트 스터디 (2026.09.12 ~ 10.11)
 
+## 현 진행상황을 공유합니다.
+https://docs.google.com/spreadsheets/d/10E-Qe7dJqeLfdOhLltT3UHOskDmUHJBSqo5VugTMmco/edit?usp=sharing
+
 ## 일정
 
 - **기간**: 9월 12일(토) ~ 10월 11일(일), 4주
