@@ -26,6 +26,7 @@ class Solution {
                 
                 char val = maps[ir].charAt(ic);
                 
+                // if (val == 'X') continue; // [<--- !! 코드 실패 원인 : 밖에 있던게 오염 -> q 끊김 문제 유발] 여기서 쓰는 val은 무엇일까요?
                 // 만약에 해당 칸이 X면 아래하지 않고 넘기기
                 if (val == 'X') {
                     continue;
